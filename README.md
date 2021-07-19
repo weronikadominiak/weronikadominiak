@@ -12,7 +12,7 @@
 [![Polywork](https://img.shields.io/badge/-Polywork%20Account-00acee?style=flat)](https://www.polywork.com/weronikadominiak "Check my Polywork")
 [![Polywork](https://img.shields.io/badge/-Polywork%20Contact-00acee?style=flat)](https://poly.work/weronikadominiak/contact "Connect via Polywork")
 [![Linkedin Badge](https://img.shields.io/badge/-Weronika%20Dominiak-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weronikadominiak/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@weronikadev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/weronikadev "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@weronika_dev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/weronika_dev "Follow on Twitter")
 
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=weronikadominiak&count_private=true&theme=tokyonight&showicons=true)]()
