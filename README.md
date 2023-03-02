@@ -1,6 +1,6 @@
 ### Hi there, I'm Weronika 👋
 
-- 🔭 I'm currently working as **Senior Frontend Developer** @ Gamesys
+- 🔭 **Senior Frontend Developer**
 - 🌱 I’m experienced with: **Gatsby / React.js, SCSS, Netlify, GIT, CMS: Sanity.io and AEM**
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I'm Brazilian Jiu Jitsu blue belt.
