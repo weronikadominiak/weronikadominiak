@@ -1,8 +1,7 @@
 ### Hi there, I'm Weronika 👋
 
 - 🔭 **Senior Frontend Developer** [@Vochlea](https://vochlea.com/)
-- 🌱 I’m experienced with: **Gatsby, React.js, Next.js, SCSS, Netlify, GIT, CMS: Sanity.io and AEM**, UX Design
-- 😄 Pronouns: she / her
+- 🌱 I’m experienced with: **React.js, Next.js, Gatsby, CSS/SCSS, Netlify, Vercel GIT, CMS: Sanity.io, Storyblok and AEM**, UX Design
 - ⚡ Fun fact: I'm Brazilian Jiu Jitsu blue belt.
 
 
